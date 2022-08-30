@@ -1,0 +1,42 @@
+
+body {
+    height: 100%;
+    margin: 0px;
+    padding: px;
+    display: flex;
+    flex-direction: column;
+    background-image: url("img/fundo.png");
+    border: 0;
+} 
+.nav {
+    background-color: #3A5664;
+    color: white;
+    padding: px;
+    text-align: center;
+    font: normal 30px Verdana;
+    position: fixed;
+    
+}
+.corpo {
+    padding-top: 90px;
+    padding-left: 10px;
+    outline: 0;
+   
+}
+.quadrotext {
+    outline: 0;
+    border: 0;
+
+}
+.by {
+    font: normal 10px Verdana;
+    
+}
+
+.iframe {
+    outline: 0;
+    border: 0;
+    height: 500px;
+    padding-left: 10px;
+}
+
